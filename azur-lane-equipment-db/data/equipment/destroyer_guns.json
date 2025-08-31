@@ -7,31 +7,39 @@
     "source": {
       "nation": "Eagle Union",
       "rarity": "Gold",
-      "techLevel": "T3"
+      "techLevel": "T3",
+      "acquisition": "Research, Events, Shop"
     },
     "stats_numerical": {
       "damage": "15x4",
       "reload": 1.53,
       "range": 55,
       "firepower": 20,
-      "antiAir": 25
+      "antiAir": 25,
+      "barrageDamage": "High alpha damage",
+      "skillSynergy": "Good with Eagle Union ships"
     },
     "stats_qualitative_visual": {
       "ammoType": "HE",
       "shellVelocity": "High",
       "accuracy": "Good",
-      "spread": "Medium"
+      "spread": "Medium",
+      "muzzleFlash": "Standard",
+      "shellTrails": "Visible"
     },
     "derived_analysis": {
       "dps": "High",
-      "suitability": "General purpose destroyer gun, good for both damage and AA",
-      "strengths": "Balanced stats, HE ammo type, solid AA boost",
-      "weaknesses": "Slightly slow reload compared to some alternatives"
+      "suitability": "General purpose destroyer gun, excellent for sustained combat and AA support",
+      "strengths": "Balanced stats, HE ammo type, solid AA boost (+25), reliable performance",
+      "weaknesses": "Slightly slow reload (1.53s) compared to rapid-fire alternatives",
+      "recommendedShips": "Most Eagle Union destroyers, especially those with AA focus",
+      "barrageCompatibility": "Good for ships with standard barrages",
+      "counterSynergy": "Works well against light armored targets and aircraft"
     },
     "metadata": {
-      "lastUpdated": "2025-08-31T13:19:00.000000",
+      "lastUpdated": "2025-08-31T13:20:00.000000",
       "dataCompleteness": "complete",
-      "sources": ["Azur Lane Wiki", "Community guides", "Reddit discussions"]
+      "sources": ["Azur Lane Wiki", "Community guides", "Reddit discussions", "Equipment tier lists"]
     }
   },
   {
@@ -172,6 +180,92 @@
       "lastUpdated": "2025-08-31T13:19:00.000000",
       "dataCompleteness": "complete",
       "sources": ["Azur Lane Wiki", "Equipment guides"]
+    }
+  },
+  {
+    "identity": {
+      "itemName": "Twin 127mm (Type 3)",
+      "type": "destroyer_guns"
+    },
+    "source": {
+      "nation": "Sakura Empire",
+      "rarity": "Gold",
+      "techLevel": "T3",
+      "acquisition": "Research, Events"
+    },
+    "stats_numerical": {
+      "damage": "16x4",
+      "reload": 1.4,
+      "range": 52,
+      "firepower": 18,
+      "antiAir": 22,
+      "barrageDamage": "High shell count",
+      "skillSynergy": "Excellent with Sakura Empire ships"
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "Medium-High",
+      "accuracy": "Excellent",
+      "spread": "Low",
+      "muzzleFlash": "Standard",
+      "shellTrails": "Visible"
+    },
+    "derived_analysis": {
+      "dps": "Very High",
+      "suitability": "High damage output destroyer gun, excellent for barrage-focused ships",
+      "strengths": "High damage per shot (16x4), fast reload, excellent accuracy, high shell count per barrage",
+      "weaknesses": "Lower AA boost compared to some alternatives",
+      "recommendedShips": "Sakura Empire destroyers, especially those with barrage skills",
+      "barrageCompatibility": "Excellent for ships with multi-shot barrages",
+      "counterSynergy": "Outstanding against shielded enemies and suicide boats"
+    },
+    "metadata": {
+      "lastUpdated": "2025-08-31T13:20:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Equipment guides", "Community discussions"]
+    }
+  },
+  {
+    "identity": {
+      "itemName": "Single 127mm (5\"/38 Mk 30)",
+      "type": "destroyer_guns"
+    },
+    "source": {
+      "nation": "Eagle Union",
+      "rarity": "Gold",
+      "techLevel": "T3",
+      "acquisition": "Research, Events"
+    },
+    "stats_numerical": {
+      "damage": "18x2",
+      "reload": 1.2,
+      "range": 58,
+      "firepower": 15,
+      "antiAir": 30,
+      "barrageDamage": "Highest single shot damage",
+      "skillSynergy": "Good with Eagle Union ships"
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "Very High",
+      "accuracy": "Excellent",
+      "spread": "Very Low",
+      "muzzleFlash": "Bright",
+      "shellTrails": "Minimal"
+    },
+    "derived_analysis": {
+      "dps": "Very High",
+      "suitability": "Rapid-fire destroyer gun with exceptional AA capabilities",
+      "strengths": "Fastest firing HE gun, very high damage per shot, excellent AA boost (+30), superior accuracy",
+      "weaknesses": "Only 2 shells per salvo, lower total FP boost",
+      "recommendedShips": "Eagle Union destroyers with AA focus or barrage skills",
+      "barrageCompatibility": "Perfect for ships with rapid-fire barrages",
+      "counterSynergy": "Excellent against aircraft and light armored targets"
+    },
+    "metadata": {
+      "lastUpdated": "2025-08-31T13:20:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Equipment guides", "Community tier lists"]
     }
   }
 ]
