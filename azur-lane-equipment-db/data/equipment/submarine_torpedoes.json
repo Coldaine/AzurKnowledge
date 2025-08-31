@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Type 95 Torpedo",
+      "type": "submarine_torpedoes"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.989936",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

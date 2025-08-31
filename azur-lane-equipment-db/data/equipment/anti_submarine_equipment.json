@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Depth Charge",
+      "type": "anti_submarine_equipment"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:14.005463",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

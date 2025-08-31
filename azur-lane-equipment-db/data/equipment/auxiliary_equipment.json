@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Radar Type 0",
+      "type": "auxiliary_equipment"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:14.004457",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "F1M Pete Seaplane",
+      "type": "seaplanes"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:14.003883",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

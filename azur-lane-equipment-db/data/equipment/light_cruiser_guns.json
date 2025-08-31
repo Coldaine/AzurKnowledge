@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Triple 152mm Main Gun",
+      "type": "light_cruiser_guns"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.974889",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

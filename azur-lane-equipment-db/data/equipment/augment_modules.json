@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Fire Control System",
+      "type": "augment_modules"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:14.004972",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

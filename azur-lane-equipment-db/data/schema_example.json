@@ -1,0 +1,41 @@
+{
+  "_example": {
+    "identity": {
+      "itemName": "string",
+      "itemID": "integer",
+      "rarity": "string",
+      "type": "string",
+      "faction": "string"
+    },
+    "source": {
+      "acquisitionMethod": ["array"],
+      "isCraftable": "boolean"
+    },
+    "stats_numerical": {
+      "firepower": "integer",
+      "anti_air": "integer",
+      "damage": "integer",
+      "numberOfShots": "integer",
+      "baseReload": "float",
+      "range": "integer",
+      "ammoType": "string"
+    },
+    "stats_qualitative_visual": {
+      "firingPattern": "string",
+      "shellOrdnanceVelocity": "string",
+      "visualDataURL": "string"
+    },
+    "derived_analysis": {
+      "primaryRole": ["array"],
+      "strengths": ["array"],
+      "weaknesses": ["array"],
+      "communityTier": "string",
+      "notes": "string"
+    },
+    "metadata": {
+      "lastUpdated": "ISO-date",
+      "dataCompleteness": "complete|partial|basic",
+      "sources": ["array"]
+    }
+  }
+}

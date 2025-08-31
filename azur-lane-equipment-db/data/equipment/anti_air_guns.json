@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Type 96 25mm AA Gun",
+      "type": "anti_air_guns"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.989429",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

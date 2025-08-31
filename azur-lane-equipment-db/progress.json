@@ -1,0 +1,24 @@
+{
+  "basic": [
+    "Twin 127mm (5\"/38 Mk 38)",
+    "Triple 152mm Main Gun",
+    "203mm/53 Twin Gun Mount",
+    "305mm/50 Twin Gun Mount",
+    "410mm/45 Triple Gun Mount",
+    "Type 96 25mm AA Gun",
+    "Type 93 Torpedo",
+    "Type 95 Torpedo",
+    "A6M Zero Fighter",
+    "D3A1 Val Dive Bomber",
+    "B5N2 Kate Torpedo Bomber",
+    "F1M Pete Seaplane",
+    "Radar Type 0",
+    "Fire Control System",
+    "Depth Charge"
+  ],
+  "completed": [],
+  "partial": [],
+  "failed": [],
+  "retry_queue": [],
+  "last_updated": "2025-08-31T07:33:14.005731"
+}

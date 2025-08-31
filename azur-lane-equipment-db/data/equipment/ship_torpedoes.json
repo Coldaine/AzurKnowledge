@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "Type 93 Torpedo",
+      "type": "ship_torpedoes"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.989781",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

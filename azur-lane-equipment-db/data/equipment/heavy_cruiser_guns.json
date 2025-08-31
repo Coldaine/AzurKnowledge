@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "203mm/53 Twin Gun Mount",
+      "type": "heavy_cruiser_guns"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.975108",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

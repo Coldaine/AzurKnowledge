@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "410mm/45 Triple Gun Mount",
+      "type": "battleship_guns"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.975566",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]

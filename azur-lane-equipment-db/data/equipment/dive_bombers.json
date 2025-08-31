@@ -1,0 +1,17 @@
+[
+  {
+    "identity": {
+      "itemName": "D3A1 Val Dive Bomber",
+      "type": "dive_bombers"
+    },
+    "source": {},
+    "stats_numerical": {},
+    "stats_qualitative_visual": {},
+    "derived_analysis": {},
+    "metadata": {
+      "lastUpdated": "2025-08-31T07:33:13.990274",
+      "dataCompleteness": "basic",
+      "sources": []
+    }
+  }
+]
