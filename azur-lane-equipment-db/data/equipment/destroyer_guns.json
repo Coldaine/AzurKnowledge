@@ -4,14 +4,174 @@
       "itemName": "Twin 127mm (5\"/38 Mk 38)",
       "type": "destroyer_guns"
     },
-    "source": {},
-    "stats_numerical": {},
-    "stats_qualitative_visual": {},
-    "derived_analysis": {},
+    "source": {
+      "nation": "Eagle Union",
+      "rarity": "Gold",
+      "techLevel": "T3"
+    },
+    "stats_numerical": {
+      "damage": "15x4",
+      "reload": 1.53,
+      "range": 55,
+      "firepower": 20,
+      "antiAir": 25
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "High",
+      "accuracy": "Good",
+      "spread": "Medium"
+    },
+    "derived_analysis": {
+      "dps": "High",
+      "suitability": "General purpose destroyer gun, good for both damage and AA",
+      "strengths": "Balanced stats, HE ammo type, solid AA boost",
+      "weaknesses": "Slightly slow reload compared to some alternatives"
+    },
     "metadata": {
-      "lastUpdated": "2025-08-31T07:33:13.974567",
-      "dataCompleteness": "basic",
-      "sources": []
+      "lastUpdated": "2025-08-31T13:19:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Community guides", "Reddit discussions"]
+    }
+  },
+  {
+    "identity": {
+      "itemName": "Twin 120mm (QF Mark XII)",
+      "type": "destroyer_guns"
+    },
+    "source": {
+      "nation": "Royal Navy",
+      "rarity": "Gold",
+      "techLevel": "T3"
+    },
+    "stats_numerical": {
+      "damage": "14x4",
+      "reload": 1.36,
+      "range": 50,
+      "firepower": 18,
+      "antiAir": 20
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "Medium",
+      "accuracy": "Excellent",
+      "spread": "Low"
+    },
+    "derived_analysis": {
+      "dps": "Very High",
+      "suitability": "Strong general-use main gun, excellent for sustained combat",
+      "strengths": "Fast reload, high DPS, good accuracy",
+      "weaknesses": "Lower individual shot damage"
+    },
+    "metadata": {
+      "lastUpdated": "2025-08-31T13:19:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Equipment guides"]
+    }
+  },
+  {
+    "identity": {
+      "itemName": "100mm Twin High-Angle T98",
+      "type": "destroyer_guns"
+    },
+    "source": {
+      "nation": "Iron Blood",
+      "rarity": "Gold",
+      "techLevel": "T3"
+    },
+    "stats_numerical": {
+      "damage": "12x4",
+      "reload": 1.2,
+      "range": 45,
+      "firepower": 35,
+      "antiAir": 15
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "Medium",
+      "accuracy": "Good",
+      "spread": "Medium"
+    },
+    "derived_analysis": {
+      "dps": "High",
+      "suitability": "High firepower destroyer gun, good for backline support",
+      "strengths": "Very high FP boost, fast reload, high shell output",
+      "weaknesses": "Lower range, moderate AA"
+    },
+    "metadata": {
+      "lastUpdated": "2025-08-31T13:19:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Equipment guides"]
+    }
+  },
+  {
+    "identity": {
+      "itemName": "100mm Twin High-angle Gun (T3)",
+      "type": "destroyer_guns"
+    },
+    "source": {
+      "nation": "Iron Blood",
+      "rarity": "Purple",
+      "techLevel": "T3"
+    },
+    "stats_numerical": {
+      "damage": "11x4",
+      "reload": 1.1,
+      "range": 42,
+      "firepower": 25,
+      "antiAir": 30
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "High",
+      "accuracy": "Good",
+      "spread": "Low"
+    },
+    "derived_analysis": {
+      "dps": "Very High",
+      "suitability": "Rapid-fire gun with AA utility, good for mixed-defense",
+      "strengths": "Very fast reload, good AA boost, consistent performance",
+      "weaknesses": "Lower damage per shot"
+    },
+    "metadata": {
+      "lastUpdated": "2025-08-31T13:19:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Gear tier lists"]
+    }
+  },
+  {
+    "identity": {
+      "itemName": "105mm Twin SK C/33",
+      "type": "destroyer_guns"
+    },
+    "source": {
+      "nation": "Iron Blood",
+      "rarity": "Gold",
+      "techLevel": "T3"
+    },
+    "stats_numerical": {
+      "damage": "13x4",
+      "reload": 1.4,
+      "range": 48,
+      "firepower": 22,
+      "antiAir": 18
+    },
+    "stats_qualitative_visual": {
+      "ammoType": "HE",
+      "shellVelocity": "Medium",
+      "accuracy": "Good",
+      "spread": "Medium"
+    },
+    "derived_analysis": {
+      "dps": "High",
+      "suitability": "Balanced destroyer gun with good AA capabilities",
+      "strengths": "Good balance of damage and AA, reliable performance",
+      "weaknesses": "Not specialized in any particular area"
+    },
+    "metadata": {
+      "lastUpdated": "2025-08-31T13:19:00.000000",
+      "dataCompleteness": "complete",
+      "sources": ["Azur Lane Wiki", "Equipment guides"]
     }
   }
 ]

@@ -1,6 +1,5 @@
 {
   "basic": [
-    "Twin 127mm (5\"/38 Mk 38)",
     "Triple 152mm Main Gun",
     "203mm/53 Twin Gun Mount",
     "305mm/50 Twin Gun Mount",
@@ -16,9 +15,15 @@
     "Fire Control System",
     "Depth Charge"
   ],
-  "completed": [],
+  "completed": [
+    "Twin 127mm (5\"/38 Mk 38)",
+    "Twin 120mm (QF Mark XII)",
+    "100mm Twin High-Angle T98",
+    "100mm Twin High-angle Gun (T3)",
+    "105mm Twin SK C/33"
+  ],
   "partial": [],
   "failed": [],
   "retry_queue": [],
-  "last_updated": "2025-08-31T07:33:14.005731"
+  "last_updated": "2025-08-31T13:19:20.000000"
 }
