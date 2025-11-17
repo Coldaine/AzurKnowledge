@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+azur_lane_parsed_data/
+*.log
+.env
+.env.local
